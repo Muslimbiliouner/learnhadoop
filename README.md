@@ -55,6 +55,8 @@ teks   1
 1. **Jika menggunakan google collab pertama upload file pembukaan_uud1945.txt** 
 
 2. **Running seluruh script berurutan**  
+
+2. **Output nya disimpan dalam hdfs-wordcount-UUD-1945-with-python.txt**  
   
 ## Struktur File
 ```.
@@ -63,6 +65,7 @@ teks   1
 ├── reducer.py         # Skrip reducer
 ├── pembukaan_uud1945.txt # Contoh file input
 ├── README.md          # Dokumentasi proyek
+├── hdfs-wordcount-UUD-1945-with-python.txt # Output dari wordcount with python
 ```
 
 ## Catatan
